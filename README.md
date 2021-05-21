@@ -11,8 +11,7 @@ So each component is defined in one gin file, I describe which components to com
 
 ## Setup
 ```sh
-# Install dependencies
-pip install -e .
+pip install --upgrade git+git://github.com/nielsrolf/ginerator
 ```
 
 ## Usage
